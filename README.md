@@ -2,7 +2,7 @@
 
 Please place reproducible bugs under issues.
 
-All the other should be handled in the discussions tab.
+All the other stuff(like installation problems!)should be handled in the discussions tab.
 
 Please refer to https://tesla-android.gapinski.eu for release notes, hardware requirements and the install guide.
 
